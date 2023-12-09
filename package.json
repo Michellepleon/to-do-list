@@ -1,0 +1,17 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "It's a simple software where we can print tasks to be done.",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "node js/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
